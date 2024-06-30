@@ -1,1 +1,1 @@
-This project has moved to Github at https://github.com/asacolips-projects/panic-at-the-dojo. This gitlab version of the project has been archived to prevent new issues and MRs from being opened on it. If you need to create an issue or merge request, head to the Github version.
+This is a basic project for creating a Foundry VTT system for Panic at the Dojo. Very much a WIP!
